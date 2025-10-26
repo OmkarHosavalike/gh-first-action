@@ -7,7 +7,7 @@ jobs:
       - name: Print hello
         run: |
           echo hey there
-          echo date
+          date
           echo good morning
       
   
